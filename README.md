@@ -20,8 +20,8 @@
 -->
 <h2><a href="https://www.credly.com/users/jimmy-dang.cfdec763/badges">📑 Certifications</a></h2>
 - <b>CompTIA CySA+ (In Progress)</b><br/>
-- <b>CompTIA Security+</b>
-- <b>Microsoft MTA: Networking Fundamentals</b>
+- <b>CompTIA Security+</b><br/>
+- <b>Microsoft MTA: Networking Fundamentals</b><br/>
 - <b>CompTIA A+</b>
 <h2> 🤳 Connect with me:</h2>
 
