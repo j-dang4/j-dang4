@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2><a href="https://github.com/j-dang4">🪪 Resume</a></h2>
+<!--<h2><a href="https://github.com/j-dang4">🪪 Resume</a></h2>-->
 
 
 <h2> 🤳 Connect with me:</h2>
