@@ -1,6 +1,6 @@
 <h1>Hello, I'm Jimmy! <br/><a href="https://github.com/j-dang4">IT & Aspiring Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>💻 IT & Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
