@@ -3,7 +3,7 @@
 <h2>💻 IT & Cybersecurity Projects:</h2>
 
 - <b>SIEM & XDR HomeLab</b>
-  - [Setting up Wazuh SIEM to monitor home endpoints](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up Wazuh SIEM to monitor home endpoints](https://github.com/j-dang4/SIEMLab)
 <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
