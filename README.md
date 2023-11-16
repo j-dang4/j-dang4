@@ -19,7 +19,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 -->
 <h2><a href="https://www.credly.com/users/jimmy-dang.cfdec763/badges">📑 Certifications</a></h2>
-- <b>CompTIA CySA+ (In Progress)</b>
+- <b>CompTIA CySA+ (In Progress)</b><br/>
 - <b>CompTIA Security+</b>
 - <b>Microsoft MTA: Networking Fundamentals</b>
 - <b>CompTIA A+</b>
